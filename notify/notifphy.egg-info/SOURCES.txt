@@ -1,0 +1,7 @@
+README.md
+setup.py
+notify/notifphy.egg-info/PKG-INFO
+notify/notifphy.egg-info/SOURCES.txt
+notify/notifphy.egg-info/dependency_links.txt
+notify/notifphy.egg-info/requires.txt
+notify/notifphy.egg-info/top_level.txt

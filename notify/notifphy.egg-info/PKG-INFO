@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: notifphy
+Version: 0.0.1
+Summary: A library to push notifications
+Home-page: https://github.com/n30nyx/notifphy
+Author: Sakurai07/Ehnryu
+Author-email: 
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/n30nyx/notifphy/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# notifphy
+
+### Installation:
+`pip install notiphy`
+
+### Basic usage:
+```python
+import notify
+
+notify.notify(title="test",content="hello world")
+
+```
+### Advanced usage:
+```python
+import notify
+notify.notify(icon="Information",largeicon="Info",title="",content="",Visible="True",time="1000")
+# icons are from [System.Drawing.SystemIcons]::
+```
+### Supported OS;
+Currently only for windows
+
+
